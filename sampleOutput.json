@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Hafsa Adil",
+            "title": "Australia beat India by 3 wickets in Women’s Cricket World Cup 2025",
+            "description": "Captain scores 142 as Australia complete a record runchase of 331 and hand India their second loss of the tournament.",
+            "url": "https://www.aljazeera.com/sports/2025/10/12/australia-beat-india-by-three-wickets-in-womens-cricket-world-cup",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/GettyImages-2240588194-1760284062.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-10-12T18:07:11Z",
+            "content": "It was a run chase set up by an Alyssa Healy century and sealed with an Ellyse Perry six as Australia beat India by three wickets to remain undefeated in the ICC Womens World Cup 2025.\r\nFacing a reco… [+5051 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Women's Cricket World Cup 2025: Australia captain Alyssa Healy's brilliant 142 helps holders beat India in record chase",
+            "description": "Alyssa Healy's brilliant 142 helps Australia complete a record women's one-day international chase as they beat India by three wickets in the 2025 World Cup.",
+            "url": "http://www.bbc.co.uk/sport/cricket/articles/cg4249111z6o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/49d5/live/d0be11b0-a78d-11f0-928c-71dbb8619e94.jpg",
+            "publishedAt": "2025-10-12T17:37:21.0298332Z",
+            "content": "Alyssa Healy's brilliant 142 helped Australia complete a record women's one-day international chase as they beat India by three wickets in the World Cup.\r\nOn a featherbed pitch in Visakhapatnam, Indi… [+1378 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
