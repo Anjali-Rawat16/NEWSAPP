@@ -1,3 +1,4 @@
+
 📰 NewsMonkey – React News App
 
 NewsMonkey is a simple and fast React.js news application that fetches the latest headlines using the NewsAPI. It allows users to browse news by category with pagination and a clean user interface.
@@ -29,3 +30,4 @@ NewsMonkey is a simple and fast React.js news application that fetches the lates
 4-Bootstrap
 
 5-React Hooks (useState, useEffect)
+
